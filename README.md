@@ -203,7 +203,7 @@ Performed data preprocessing, analysis, and visualization on real-world datasets
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=perarasu2713&show_icons=true&theme=tokyonight&hide_border=true&title_color=a78bfa&icon_color=8a2be2&text_color=c9c9c9&bg_color=0d1117" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=perarasu2713&theme=tokyonight&hide_border=true&background=0d1117&ring=8a2be2&fire=a78bfa&currStreakLabel=a78bfa" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=perarasu2713&theme=tokyonight&hide_border=true&background=0d1117&ring=8a2be2&fire=a78bfa&currStreakLabel=a78bfa" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=perarasu2713&layout=compact&theme=tokyonight&hide_border=true&title_color=a78bfa&text_color=c9c9c9&bg_color=0d1117" width="60%"/>
 
